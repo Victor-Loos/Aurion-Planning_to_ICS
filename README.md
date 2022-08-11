@@ -1,10 +1,16 @@
-# Aurion Planning to ICS
-Export du planning Aurion vers ICS en Python !
+<h1 align="center">Aurion planning vers ICS</h1>
+<div align="center">
+    <img src="https://img.shields.io/github/repo-size/Victor-Loos/Aurion-Planning_to_ICS" alt="Size-badge"/>
+    <a href="https://choosealicense.com/licenses/mit/"><img src="https://img.shields.io/github/license/Victor-Loos/Aurion-Planning_to_ICS" alt="License"/></a>
+</div>
+
 
 ## Description  :
+Export du planning Aurion vers ICS en Python !
+
 Ce projet reprend le travail de [Mylow](https://github.com/MylowMntr) et son projet [PyAurion](https://github.com/MylowMntr/PyAurion). 
 
-Aurion est la plateforme web (progiciel développé par Auriga) utilisé par les étudiants de Junia pour accéder à leurs plannings, notes, absences et autres informations.
+Aurion est la plateforme web (progiciel développé par [Auriga](https://www.auriga.fr) utilisé par les étudiants de Junia pour accéder à leurs plannings, notes, absences et autres informations.
 
 L'intérêt d'exporter le planning est d'en simplifier l'accès.
 En évitent les contraintes suivantes de la plateforme web :
