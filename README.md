@@ -6,7 +6,7 @@ Ce projet reprend le travail de [Mylow](https://github.com/MylowMntr) et son pro
 
 Aurion est la plateforme web (progiciel développé par Auriga) utilisé par les étudiants de Junia pour accéder à leurs plannings, notes, absences et autres informations.
 
-L'intérêt d'exporter le planning est d'en simplifier l'accès. 
+L'intérêt d'exporter le planning est d'en simplifier l'accès.
 En évitent les contraintes suivantes de la plateforme web :
 - Reconnexion nécessaire toutes les 30 min d'inactivité
 - Chargement jusqu'à 6 sec pour 1 semaine de planning
@@ -51,8 +51,8 @@ Chaque événement est identifié avec un ID pour éviter les doublons lors de l
 # Sources
 [Aurion](https://aurion.junia.com)
 
-[PyAurion](https://github.com/MylowMntr/PyAurion)
+[PyAurion](https://github.com/MylowMntr/PyAurion)  
 [Scorpion](https://github.com/LiamAbyss/Scorpion)
 
-[FullCalendar](https://github.com/kkarimi/flask-fullcalendar)
+[FullCalendar](https://github.com/kkarimi/flask-fullcalendar)  
 [iCalendar](https://fr.wikipedia.org/wiki/ICalendar)
